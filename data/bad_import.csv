@@ -1,0 +1,12 @@
+date,label,people,shower,toilet,tap,dishwasher,handwash,washer,garden,carwash,notes
+2026-11-24,Sharma family,4,20,16,10,1,5,1,0,0,Valid row
+2026-11-23,Rao household,2,-5,8,4,0,3,1,0,0,Negative shower minutes
+2026-11-22,Student flat,,10,8,4,0,3,1,0,0,Blank people
+2026-11-30,Green villa,5,30,25,12,1,10,2,0,0,Future date
+2026-13-45,Rao household,2,10,8,4,0,3,1,0,0,Impossible date
+2026-11-21,Joint family,25,50,40,20,1,10,2,0,0,People above maximum
+2026-11-20,Green villa,5,abc,25,12,1,10,2,0,0,Non-numeric shower
+2026-11-19,Rao household,2,9999,8,4,0,3,1,0,0,Shower above daily cap
+2026-11-18,Rao household,2.5,10,8,4,0,3,1,0,0,Fractional people
+2026-11-17,Student flat,3,12,9,5,0,4,1,0,0,Valid row
+2026-11-16,Green villa,5,30,25,12,1,10,2,15,0,Valid row

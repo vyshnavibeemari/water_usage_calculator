@@ -1,0 +1,6 @@
+__pycache__/
+.venv/
+data/records.json
+data/records.corrupt.*.json
+data/settings.json
+*.tmp

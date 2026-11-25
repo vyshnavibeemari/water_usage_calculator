@@ -1,0 +1,43 @@
+id,date,label,people,shower,toilet,tap,dishwasher,handwash,washer,garden,carwash,total_liters,per_person,status,notes
+s001,2026-10-27,Joint family,7,47,38,12,2,22,2,0,0,1087.5,155.36,High,
+s002,2026-10-30,Rao household,2,5,6,4,1,1,1,15,0,415.5,207.75,Critical,
+s003,2026-11-01,Joint family,7,13,15,10,0,8,3,0,0,522.5,74.64,Efficient,
+s004,2026-11-01,Green villa,5,27,27,11,1,8,2,0,0,688.5,137.7,High,
+s005,2026-11-02,Sharma family,4,17,20,9,2,2,1,0,0,451.5,112.88,Normal,
+s006,2026-11-03,Green villa,5,30,34,17,1,2,3,15,0,1022.0,204.4,Critical,
+s007,2026-11-03,Joint family,7,46,35,16,0,9,3,15,0,1225.0,175.0,High,
+s008,2026-11-04,Rao household,2,9,11,8,1,2,1,0,1,390.5,195.25,Critical,
+s009,2026-11-06,Student flat,3,13,12,11,2,9,0,10,0,528.5,176.17,Critical,
+s010,2026-11-06,Rao household,2,6,5,2,2,2,0,10,0,305.0,152.5,High,
+s011,2026-11-06,Green villa,5,20,23,16,1,5,2,0,0,604.0,120.8,Normal,
+s012,2026-11-07,Joint family,7,31,34,13,0,10,3,0,0,841.5,120.21,Normal,
+s013,2026-11-08,Sharma family,4,17,16,7,0,0,0,0,0,319.5,79.88,Efficient,
+s014,2026-11-09,Joint family,7,22,26,8,0,13,1,0,0,602.0,86.0,Efficient,
+s015,2026-11-09,Rao household,2,6,4,1,2,1,0,10,0,285.0,142.5,High,
+s016,2026-11-10,Joint family,7,28,45,25,0,20,2,15,0,1206.0,172.29,High,
+s017,2026-11-10,Joint family,7,38,48,16,0,8,3,0,0,994.0,142.0,High,
+s018,2026-11-10,Joint family,7,33,44,26,1,25,1,0,0,1033.5,147.64,High,
+s019,2026-11-11,Green villa,5,12,15,5,0,5,0,0,0,299.0,59.8,Efficient,Efficient: conscious water saving
+s020,2026-11-12,Student flat,3,13,10,5,2,4,1,0,0,340.5,113.5,Normal,
+s021,2026-11-13,Sharma family,4,0,0,0,0,0,0,0,0,20.0,5.0,Efficient,"Edge: away on holiday, only baseline use"
+s022,2026-11-14,Rao household,2,5,5,4,2,4,0,0,0,173.5,86.75,Efficient,
+s023,2026-11-15,Sharma family,4,13,12,4,1,2,0,0,1,370.5,92.62,Efficient,
+s024,2026-11-16,Hostel block,20,600,200,300,20,300,20,600,10,22500.0,1125.0,Critical,Boundary: every activity at its daily cap
+s025,2026-11-16,Green villa,5,29,28,13,0,19,2,0,0,798.5,159.7,High,
+s026,2026-11-17,Sharma family,4,18,23,15,0,1,0,0,0,427.0,106.75,Normal,
+s027,2026-11-17,Sharma family,4,17,26,12,0,10,1,0,0,539.5,134.88,Normal,
+s028,2026-11-18,Rao household,2,14,10,0,0,0,0,240,3,4103.0,2051.5,Critical,Edge: garden and car wash weekend
+s029,2026-11-18,Sharma family,4,13,24,8,1,10,1,10,0,630.5,157.62,High,
+s030,2026-11-20,Hostel block,20,100,90,80,0,0,6,0,0,2370.0,118.5,Normal,Boundary: maximum household size
+s031,2026-11-20,Green villa,5,14,12,6,1,0,1,0,0,331.0,66.2,Efficient,
+s032,2026-11-21,Joint family,7,25,26,10,2,17,2,10,1,1004.5,143.5,High,
+s033,2026-11-22,Sharma family,4,24,200,10,0,0,1,0,0,1558.0,389.5,Critical,Edge: suspected running toilet / leak
+s034,2026-11-22,Green villa,5,21,15,4,1,12,2,10,0,699.5,139.9,High,
+s035,2026-11-22,Sharma family,4,25,24,12,1,9,2,0,0,660.5,165.12,High,
+s036,2026-11-23,Student flat,1,0,0,0,0,0,0,0,0,5.0,5.0,Efficient,"Boundary: minimum usage (1 person, no activities)"
+s037,2026-11-23,Student flat,3,5,7,4,0,2,1,0,0,194.5,64.83,Efficient,
+s038,2026-11-23,Joint family,7,30,27,7,1,7,2,0,0,695.0,99.29,Normal,
+s039,2026-11-23,Joint family,7,31,37,14,0,5,3,0,0,825.5,117.93,Normal,
+s040,2026-11-24,Joint family,7,40,40,15,1,15,2,0,0,980.0,140.0,High,Normal day
+s041,2026-11-24,Rao household,2,7,12,4,0,1,1,0,0,230.5,115.25,Normal,
+s042,2026-11-25,Student flat,3,5,6,2,2,1,0,15,0,373.5,124.5,Normal,
